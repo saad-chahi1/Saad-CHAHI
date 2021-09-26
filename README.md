@@ -10,7 +10,9 @@ Hello, I am Saad CHAHI a Software Engineer Student & web developer. I am involve
 
 💬 Ask me about anything, I'll be happy to help and share :D.
 
-📫 How to reach me: saad.chahi1999@gmail.com or on my socials account Saad CHAHI.
+📫 How to reach me: saad.chahi1999@gmail.com or on my socials account below.
+
+😄 Pronouns: Saad.
 
 ⚡ Beside Coding Life: Design using illustrator, Cooking, organizing events, managing Fb pages and groups, discovering new cultures and languages, reading books, handcrafting or drawing, and sometimes writing stories.
 
@@ -22,7 +24,7 @@ Hello, I am Saad CHAHI a Software Engineer Student & web developer. I am involve
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-chahi1&langs_count=8&layout=compact&bg_color=071A2C&text_color=FFFFFF" alt="oussamabouchikhi's top langs"/>
 </p>
 
-##Contact Me 
+## Contact Me 
 
 
 <a href="https://www.linkedin.com/in/saad-chahi-273b99185/">
@@ -31,9 +33,8 @@ Hello, I am Saad CHAHI a Software Engineer Student & web developer. I am involve
 <a href="https://www.facebook.com/saad.raja.501/">
   <img align="left" alt="Saad chahi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />
 </a>
-
-<a href="https://stackoverflow.com/users/9039646/dina-taklit">
-  <img align="left" alt="Dina TAKLIT | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
+<a href="https://stackoverflow.com/users/14332866/chahi-saad/">
+  <img align="left" alt="Saad chahi | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
 </a>
 
 <br/>

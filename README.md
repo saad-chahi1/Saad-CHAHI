@@ -13,3 +13,11 @@ Hello, I am Saad CHAHI a Software Engineer Student & web developer. I am involve
 📫 How to reach me: saad.chahi1999@gmail.com or on my socials account Saad CHAHI.
 
 ⚡ Beside Coding Life: Design using illustrator, Cooking, organizing events, managing Fb pages and groups, discovering new cultures and languages, reading books, handcrafting or drawing, and sometimes writing stories.
+
+## Git Stats
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saad-chahi1&bg_color=071A2C&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="saad-chahi1's github stars"/>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-chahi1&langs_count=8&layout=compact&bg_color=071A2C&text_color=FFFFFF" alt="oussamabouchikhi's top langs"/>
+</p>

@@ -21,3 +21,20 @@ Hello, I am Saad CHAHI a Software Engineer Student & web developer. I am involve
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-chahi1&langs_count=8&layout=compact&bg_color=071A2C&text_color=FFFFFF" alt="oussamabouchikhi's top langs"/>
 </p>
+
+##Contact Me 
+
+
+<a href="https://www.linkedin.com/in/saad-chahi-273b99185/">
+  <img align="left" alt="Saad Chahi' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/saad.raja.501/">
+  <img align="left" alt="Saad chahi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />
+</a>
+
+<a href="https://stackoverflow.com/users/9039646/dina-taklit">
+  <img align="left" alt="Dina TAKLIT | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
+</a>
+
+<br/>
+<br/>

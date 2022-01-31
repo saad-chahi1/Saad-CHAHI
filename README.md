@@ -4,7 +4,7 @@ Hello, I am Saad CHAHI a Software Engineer Student & web developer. I am involve
 
 🔭 I’m currently self-employed working on web projects.
 
-🌱 I’m currently learning MongoDB.
+🌱 I’m currently learning Asp.net MVC.
 
 👯 I’m looking to collaborate on a Web post.
 
